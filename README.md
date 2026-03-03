@@ -1,4 +1,7 @@
 # Basketball Prediction Engine v2.0
+![Python](https://img.shields.io/badge/python-3.8+-blue.svg)
+![License](https://img.shields.io/badge/license-MIT-green.svg)
+![Status](https://img.shields.io/badge/status-active-brightgreen.svg)
 
 An experiment in rapid iterative model development.
 
