@@ -106,7 +106,7 @@ MIT - Use this methodology however you want
 ## Related Projects
 
 🏁 **[NASCAR Monte Carlo Predictor](https://github.com/Katadhin/nascar-prediction-engine)** - Adaptive racing predictions across track types  
-🏢 **[Katadhin Consulting](https://katadhin.com)** - Business transformation & AI adoption  
+🏢 **[Katadhin Consulting](https://katadhinconsulting.com)** - Business transformation & AI adoption  
 📚 **Teaching:** Applied AI for Business @ Lenoir-Rhyne University
 
 ---
