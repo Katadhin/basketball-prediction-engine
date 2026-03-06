@@ -6,18 +6,21 @@ An experiment in rapid iterative model development.
 
 Can rapid public iteration create better prediction models faster than traditional isolated development?
 
-## Results
+## Results Tracking
 
 | Game | Prediction | Actual | Margin Error | Winner |
 |------|-----------|--------|--------------|--------|
 | Duke-UNC (Feb 7) | Duke by 7 (67.7%) | UNC by 3 | 10 pts | ❌ |
 | Duke-VA (Feb 28) | Duke by 12 (83.7%) | Duke by 26 | 14 pts | ✅ |
 | UNC-VT (Feb 28) | UNC by 2 (53.2%) | UNC by 7 | 5 pts | ✅ |
+| UNC-Duke (Mar 7) | Duke by 8 (76%) | TBD | TBD | TBD |
 
-**v2.0 Performance:** 2/2 winners (100%), 9.5 pt avg margin error
+**v2.0 Performance:** 2/2 winners (100%), 9.5 pt avg margin error  
 **v1.0 Performance:** 0/1 winners (0%), 10 pt margin error
 
 ✅ **Model v2.0 is demonstrably better than v1.0**
+
+**Next Test:** Duke revenge game + Wilson status uncertainty + Market at 91% Duke
 
 ## Methodology
 
