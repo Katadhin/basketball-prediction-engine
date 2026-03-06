@@ -1,3 +1,21 @@
+# ⚠️ BREAKING UPDATE - March 6, 2026, 9:00 PM
+
+**Caleb Wilson is OUT for the season.**
+
+Wilson broke his right thumb in a non-contact drill Thursday and underwent season-ending surgery. This removes all uncertainty from the prediction.
+
+**Updated Prediction:**
+- **Scenario 1 (Wilson OUT) is now CONFIRMED**
+- Duke 81, UNC 71 (Duke by 10)
+- Duke wins 75.7% of simulations
+- Market at 91% Duke now appears prescient
+
+---
+
+*Original prediction below (written before injury news)*
+
+---
+
 # Duke vs UNC - March 7, 2026
 ## The Revenge Game at Cameron Indoor
 
