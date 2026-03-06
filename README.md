@@ -1,3 +1,8 @@
+[![Python](https://img.shields.io/badge/Python-3.8+-blue?logo=python&logoColor=white)](https://www.python.org/)
+[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+[![Status](https://img.shields.io/badge/Status-Active-success.svg)]()
+[![Build in Public](https://img.shields.io/badge/Build%20in%20Public-🚀-orange)]()
+
 # Basketball Prediction Engine v2.0
 
 **An experiment in rapid iterative model development**
@@ -98,6 +103,19 @@ MIT - Use this methodology however you want
 
 ## Author
 
-Built in public by someone who believes showing your work > hiding your failures
+## Related Projects
+
+🏁 **[NASCAR Monte Carlo Predictor](https://github.com/Katadhin/nascar-prediction-engine)** - Adaptive racing predictions across track types  
+🏢 **[Katadhin Consulting](https://katadhin.com)** - Business transformation & AI adoption  
+📚 **Teaching:** Applied AI for Business @ Lenoir-Rhyne University
+
+---
+
+## Connect
+
+💼 [LinkedIn](https://linkedin.com/in/katadhin)  
+🐦 [Twitter](https://twitter.com/katadhin)  
+📧 [Email](mailto:Katadhin@gmail.com)
+
 
 #DataScience #MachineLearning #BuildInPublic #Methodology
