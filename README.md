@@ -239,7 +239,7 @@ basketball-prediction-engine/
 ## Contact & Projects
 
 **John Andrews**  
-Alex Lee Profesor of Business, Lenoir-Rhyne University  
+Alex Lee Professor of Business, Lenoir-Rhyne University  
 Co-founder, Katadhin Consulting
 
 ### Related Projects
@@ -247,8 +247,8 @@ Co-founder, Katadhin Consulting
 🏢 **[Katadhin Consulting](https://katadhin.com)** - AI adoption & business transformation  
 
 ### Connect
-💼 [LinkedIn](https://linkedin.com/in/johnandrews)  
-🐦 Twitter: @johnhandrews  
+💼 [LinkedIn](https://linkedin.com/in/katadhin
+🐦 Twitter: @katadhin 
 📧 john@katadhin.com
 
 ---
